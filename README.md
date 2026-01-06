@@ -15,5 +15,13 @@ npm install
 npm start
 ```
 
+## 📸 Captures d'écran
+
+### Interface React
+![React App](image.png)
+
+### Apollo DevTools
+![Apollo DevTools](image-1.png)
+
 ---
 *Projet réalisé par Ilyas MICHICH - Janvier 2026*
